@@ -80,7 +80,7 @@ def save_edit(page, utils, text):
     if not call_home(site):#config):
         raise ValueError("Kill switch on-wiki is false. Terminating program.")
     time = 0
-    edit_summary = """'Substituted [[Template:Infobox single]] or one of its redirects using [[User:""" + config.get('enwikidep','username') + "| " + config.get('enwikidep','username') + """]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #3! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 3|BRFA in-progress]])"""
+    edit_summary = """'Substituted [[Template:Infobox single]] or one of its redirects using [[User:""" + config.get('enwikidep','username') + "| " + config.get('enwikidep','username') + """]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #6! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 6|BRFA in-progress]])"""
     while True:
         #text = page.edit()
         if time == 1:
@@ -129,7 +129,11 @@ def save_edit(page, utils, text):
                     print("Content not changed, don't print output")
                 break
             else:
-                print("Would have saved here")
+                #print("Would have saved here")
+                page.save(text,summary=edit_summary,bot=True,minor=True)
+                print("Saved page")
+                if time == 1:
+                    time = 0
                 break
 #TODO: Enable
 #    page.save(text, summary=edit_summary, bot=True, minor=True)
@@ -166,7 +170,7 @@ def process_page(text,dry_run):
         if (template.name.matches("infobox single") or template.name.matches("info box single")
             or template.name.matches("infobox singles") or template.name.matches("single infobox")):
             try:
-                template.name = "subst:" + str(template.name)
+                template.name = "subst:" + "Infobox single"+ "|"
                 content_changed = True
                 print("content changed? " + str(content_changed))
             except ValueError:
@@ -245,8 +249,8 @@ def main():
     config = configparser.RawConfigParser()
     config.read('credentials.txt')
     try:
-        pass
-    #site.login(config.get('enwikidep','username'), config.get('enwikidep', 'password'))
+        #pass
+        site.login(config.get('enwikidep','username'), config.get('enwikidep', 'password'))
     except errors.LoginError as e:
         #print(e[1]['reason'])
         print(e)
@@ -260,7 +264,8 @@ def main():
         list4 = getTransclusions(site,"Template:Infobox Singles")
         list5 = getTransclusions(site,"Template:Single Infobox")
         list6 = getTransclusions(site,"Template:Single infobox")
-        joined_list = list1 + list2 + list3 + list4 + list5 + list6 #[y for x in [list1, list2, list3, list4, list5, list6] for y in x]
+        #joined_list = list1 + list2 + list3 + list4 + list5 + list6
+        joined_list = [y for x in [list1, list2, list3, list4, list5, list6] for y in x]
         del list1
         del list2
         del list3
