@@ -1,0 +1,158 @@
+{{About||the colour|Golden brown (colour)|the musician of the band Three Days Grace|Gavin Brown (musician)}}
+{{Use dmy dates|date=March 2012}}
+{{Use British English|date=March 2012}}
+{{Infobox single
+| Name          = Golden Brown
+| Cover         = Golden Brown cover art.jpg
+| Artist        = [[The Stranglers]]
+| Album         = [[La folie (album)|La folie]]
+| B-side        = "Love 30"
+| Released      = {{unbulleted list|28 December 1981 (US)|10 January 1982 (UK)}}
+| Format        = [[7" vinyl]]
+| Recorded      = 1981
+| Genre         = {{hlist|[[New wave music|New wave]]<ref name="snatch">{{cite web|first= Diana |last= Potts |title= Original Soundtrack – Snatch |publisher= [[AllMusic]]. [[All Media Network]] |url= http://www.allmusic.com/album/snatch-mw0000109918 |accessdate= 24 June 2013}}</ref>|[[baroque pop]]<ref>{{cite news|first= David |last= McNamee |title= Hey, what's that sound: Harpsichord |date= 4 January 2010 |newspaper= [[The Guardian]] |url= https://www.theguardian.com/music/2009/dec/14/whats-that-sound-harpsichord |accessdate= 7 May 2016}}</ref>}}
+| Length        = 3:30
+| Label         = {{unbulleted list|[[Liberty Records|Liberty]]|BP 407 (UK, 7")}}
+| Writer        = {{hlist|[[Hugh Cornwell]]|[[Jean-Jacques Burnel]]|[[Dave Greenfield]]|[[Jet Black]]}}
+| Producer      = {{hlist|[[The Stranglers]]|[[Steve Churchyard]]}}
+| Certification =
+| Last single   = "[[Let Me Introduce You to the Family]]"<br/>(1981)
+| This single   = "'''Golden Brown'''"<br/>(1981)
+| Next single   = "[[La Folie (song)|La Folie]]"<br/>(1982)
+| Misc          = {{Extra chronology
+| Artist      = [[The Stranglers]]
+| Type        = single
+| Last single = "[[Always the Sun]] (Sunny Side Up Mix)"<br/>(1991)
+| This single = "'''Golden Brown'''"<br/>(1991)
+| Next single = "Heaven or Hell"<br/>(1992)
+}}
+}}
+
+"'''Golden Brown'''" is a song by the English rock band [[the Stranglers]]. It was released as a 7" single in December 1981 in the United States and in January 1982 in the United Kingdom, on [[Liberty Records|Liberty]]. It was the second single released from the band's sixth album ''[[La folie (album)|La folie]]''. It peaked at No. 2 in the [[UK Singles Chart]], the band's highest ever placing in that chart.<ref>{{cite book|first= David |last= Roberts |year= 2006 |title= [[British Hit Singles & Albums]] |edition= 19th |publisher= [[Guinness World Records|Guinness World Records Limited]] |location= London |isbn= 1-904994-10-5 |page= 535}}</ref>
+
+In January 2014, ''[[NME]]'' ranked the song as No. 488 on its list of the ''500 Greatest Songs of All Time''.<ref>{{cite magazine|title= The 500 Greatest Songs Of All Time – 500-401 |magazine= [[NME]] |url= http://www.nme.com/photos/the-500-greatest-songs-of-all-time-500-401/ |accessdate= 28 July 2016}}</ref> It has also been recorded by many other artists.
+
+==Overview==
+Originally featured on the group's album ''[[La folie (album)|La folie]]'', which was released in November 1981, and later on the USA pressings of ''[[Feline (The Stranglers album)|Feline]]'', "Golden Brown" was released as a single in December 1981, and was accompanied by a video. It reached No. 2 in the official [[UK Singles Chart]] in February 1982, remaining there for two weeks behind [[double A-side]]d record "[[Town Called Malice|Town Called Malice/Precious]]" by [[the Jam]].<ref name="UK"/><ref>{{cite web|title= Official Singles Chart Top 100: 14 February 1982 – 20 February 1982 |publisher= [[Official Charts Company]] |accessdate= 7 March 2017 |url= http://www.officialcharts.com/charts/singles-chart/19820214/7501/}}</ref>
+
+The comparatively conservative [[BBC Radio 2]], at that time a [[Middle of the road (music)|middle-of-the-road <small>(MOR)</small>]] music radio station, decided to make the record the single of the week, a surprising step considering the band were almost as notorious as [[Sex Pistols]] only a few years before.
+
+The band claimed that the song's lyrics were akin to an aural [[Rorschach test]] and that people only heard in it what they wanted to hear, although this did not prevent persistent allegations that the lyrics alluded to [[heroin]].
+
+The single was a top 10 hit around the world, including Australia. It was also featured in the film ''[[Snatch (film)|Snatch]]''  and is included on its soundtrack album.<ref name="snatch"/>
+
+==Meaning==
+There has been much controversy surrounding the lyrics. In his book ''The Stranglers Song By Song'' (2001), [[Hugh Cornwell]] states "'Golden Brown' works on two levels. It's about [[heroin]] and also about a girl." Essentially the lyrics describe how "both provided me with pleasurable times."<ref>{{cite book|first= Hugh |last= Cornwell |authorlink= Hugh Cornwell |first2= Jim |last2= Drury |title= The Stranglers Song By Song |year= 2001 |publisher= Sanctuary Publishing Ltd |isbn= 1-86074-362-5}}</ref>
+
+==Musical composition==
+The main body of the song has a [[Time signature|3/4]] feel and is pitched halfway between the keys of [[E minor]] and [[E-flat minor]], possibly to accommodate the tuning of the [[harpsichord]]. The instrumental introduction, in (a very flat) [[B minor]], is unconventional. The keyboard and harpsichord vamp in 3/4, and every fourth bar is in [[Time signature|4/4]].  The music was largely written by keyboardist [[Dave Greenfield]] and drummer [[Jet Black]], with lyrics by singer/guitarist [[Hugh Cornwell]].<ref>{{cite web|title= Golden Brown – Song Review |publisher= AllMusic. All Media Network |url= http://www.allmusic.com/song/golden-brown-mt0015076815 |accessdate= 9 July 2014}}</ref>
+
+The BBC newsreader [[Bill Turnbull]] attempted to [[waltz]] to the song in the 2005 series of ''[[Strictly Come Dancing]]''. In February 2012, when interviewing Stranglers bassist [[Jean-Jacques Burnel]] on ''BBC Breakfast'', Turnbull described the attempted dance as "a disaster", Burnel responded that the alternating time signatures made "Golden Brown" impossible to dance to; in contrast, a song written entirely in 6/8 is not unusual in waltzing.
+
+==Music video==
+[[File:The Stranglers - Golden Brown.jpg|thumb|200px|Two shots from ''Golden Brown'': the band performing the song in Leighton House and as explorers.]]
+The video for "Golden Brown", directed by Lindsey Clennell, depicts the band members both as explorers in an [[Arab world|Arabian country]] and non Arab Muslim Countries (sequences include images of [[Giza pyramid complex|the Pyramids]] as well as the explorers studying a map of [[Egypt]]) in the 1920s and performers for a fictional "Radio Cairo". 
+
+In addition to the Pyramids, the video is intercut with [[stock footage]] of the [[Mir-i-Arab Madrasah]] in [[Bukhara]], the [[Shah Mosque]] in [[Isfahan]], and [[Great Sphinx of Giza|Great Sphinx]], [[Felucca]]s sailing, [[Bedouin]]s riding and [[camel racing]] in the [[United Arab Emirates]]. The performance scenes were filmed in the [[Leighton House Museum]] in [[Holland Park]], [[London]].
+
+==Chart performance==
+{|class="wikitable sortable"
+!Chart (1982)
+!Peak<br/>position
+|-
+|Australia ([[Kent Music Report]])<ref>{{cite web|title= Forum – ARIA Charts: Special Occasion Charts – CHART POSITIONS PRE 1989 |publisher= Australian-charts.com. Hung Medien |accessdate= 9 July 2014 |url= http://australian-charts.com/forum.asp?todo=viewthread&id=21533&pages=}}</ref>
+|align="center"|10
+|-
+{{singlechart|Flanders|7|artist=The Stranglers|song=Golden Brown|accessdate=9 July 2014}}
+|-
+|France ([[Institut français d'opinion publique|IFOP]])<ref>{{cite web|title= Le Détail par Artiste |publisher= InfoDisc |id= Select "Stranglers" from the artist drop-down menu |url= http://www.infodisc.fr/Tubes_Artistes_S.php |accessdate= 17 May 2016 |language= fr}}</ref>
+|align="center"|73
+|-
+{{singlechart|Germany2|63|artist=The Stranglers|song=Golden Brown|id=14675|accessdate=9 July 2014}}
+|-
+{{singlechart|Ireland2|3|song=Golden Brown|accessdate=1 July 2014}}
+|-
+{{singlechart|Dutch40|8|artist=The Stranglers - Golden Brown|accessdate=9 July 2014}}
+|-
+{{singlechart|Dutch100|10|artist=The Stranglers|song=Golden Brown|accessdate=9 July 2014}}
+|-
+{{singlechart|UK|2|date=1982-02-13|accessdate=9 July 2014|refname="UK"}}
+|}
+
+{|class="wikitable sortable"
+!Chart (1991)<sup>1</sup>
+!Peak<br/>position
+|-
+{{singlechart|Ireland2|25|song=Golden Brown|accessdate=1 July 2014}}
+|-
+{{singlechart|UKchartarchive|68|artist=Stranglers|accessdate=9 July 2014}}
+|}
+<sup>1</sup>Remix
+
+=="Number Two" poll==
+In a [[BBC Radio 2]] listener poll of the nation's favourite singles to have peaked at number two, conducted in late 2012, "Golden Brown" ranked fifth behind "[[Vienna (Ultravox song)|Vienna]]", "[[Fairytale of New York]]", "[[Sit Down (song)|Sit Down]]" and "[[American Pie (song)|American Pie]]", and just ahead of "[[Waterloo Sunset]]" and "[[Penny Lane]]"/"[[Strawberry Fields Forever]]".<ref>{{cite news|title= Ultravox's Vienna tops 'number two' poll |url= https://www.bbc.co.uk/news/entertainment-arts-20881216 |publisher= [[BBC Online]] |date= 1 January 2013 |accessdate= 1 January 2013}}</ref>
+
+==Cover versions==
+* In 1996, [[Spookey Ruben]] released a cover of the song on his live album ''[[Wendy McDonald – Live in Japan]]''.
+* In 1996, British hip hop group [[Kaliphz|Kaleef]] had a UK Top 40 hit with their re-working of this song.<ref>{{cite web|title= Kaleef |url= http://www.officialcharts.com/artist/2483/KALEEF/ |publisher= [[Official Charts Company]] |accessdate= 9 July 2014}}</ref>
+* In 1997, soul singer [[Omar Lye-Fook|Omar]] revived the song and took it back into the UK Top 40.<ref>{{cite web|title= Omar |url= http://www.officialcharts.com/artist/25480/OMAR/ |publisher= Official Charts Company |accessdate= 9 July 2014}}</ref>
+* In 1997, [[Emer Kenny]] included the song in her self-titled album.<ref>{{cite web|first= Steve |last= Huey |title= Emer Kenny – Emer Kenny |url= http://www.allmusic.com/album/emer-kenny-mw0000595646 |publisher= AllMusic. All Media Network |accessdate= 9 July 2014}}</ref>
+* In 2006, English jazz singer-songwriter [[Symeon Cosburn]] covered the song on his album ''Breakfast With The Blues''.<ref>{{cite web|title= Symeon Cosburn And Lea DeLaria Bring Swing To Brighton |url= http://news.allaboutjazz.com/symeon-cosburn-and-lea-delaria-bring-swing-to-brighton.php |date= 12 February 2006 |publisher= [[All About Jazz]] |accessdate= 4 November 2014}}</ref>
+* In 2007, British singer [[Jamelia]] sampled the song with her single "[[No More (Jamelia song)|No More]]".
+* Also in 2007, fictional character Janey York (played by [[Crissy Rock]]) sang this song in the first series of ''[[Benidorm (TV series)|Benidorm]]''.
+* In 2008, the British band [[Cult with No Name]] recorded a piano-based cover of the song on their album ''Careful What You Wish For''.
+* In 2009, [[Frankmusik]] sampled "Golden Brown" in his song "When You're Around".
+* In 2010, the song was one of the 'contemporary classics' featured by the Jamaican band [[The Jolly Boys]] on their ''Great Expectation'' album.
+* Also in 2010, the song was covered by the [[scrumpy and Western]] band [[The Wurzels]] on their album ''A Load More Bollocks''.
+* Also in 2010, a guitar version of "Golden Brown" was done by [[Fiach Moriarty]].
+* In 2013, a version of "Golden Brown" by the French cover band [[Nouvelle Vague (band)|Nouvelle Vague]] was posted on YouTube.
+* A Mexican version of the song was made by Mariachi Mexteca featuring ex-Stranglers vocalist [[Hugh Cornwell]].
+* In 2016, [[Alexander Armstrong]] recorded a version for his album ''Upon a Different Shore''.<ref>{{cite web|first= Rob |last= Copsey |title= Pointless host Alexander Armstrong covers Fields Of Gold on his new album Upon A Different Shore – watch |publisher= [[Official Charts Company]] |date= 27 October 2016 |accessdate= 29 October 2016 |url= http://www.officialcharts.com/chart-news/pointless-host-alexander-armstrong-covers-fields-of-gold-on-his-new-album-upon-a-different-shore-watch__16851/}}</ref>
+*In 2017, [[Cage the Elephant]] covered the song on their album ''[[Unpeeled (Cage the Elephant album)|Unpeeled]]''.
+
+==Track listing==
+*Songs, lyrics and music by The Stranglers.
+
+===7": Liberty / BP 407 (UK)===
+;Side one
+#"Golden Brown" – 3:22
+;Side two
+#"Love 30" – 3:48
+
+===1991 7": Epic / 656761 7 (UK)===
+;Side one
+#"Golden Brown" – 3:29
+;Side two
+#"You" – 3:09
+
+=== 1991 Cassette single: Epic / 656761 4 (UK)===
+;Both sides
+#"Golden Brown" – 3:29
+#"You" – 3:09
+
+=== 1991 CD: Epic / 656761 2 (UK)===
+#"Golden Brown" – 3:31
+#"Peaches" – 3:08
+#"You" – 3:59
+#"Skin Deep (12" Version)" – 7:09
+
+==References==
+{{reflist|30em}}
+
+{{The Stranglers}}
+
+==External links==
+*[http://tabs.ultimate-guitar.com/s/stranglers/golden_brown_crd.htm Guitar Tablature]
+*{{MetroLyrics song|stranglers|golden-brown}}<!-- Licensed lyrics provider -->
+
+[[Category:1981 songs]]
+[[Category:1981 singles]]
+[[Category:1982 singles]]
+[[Category:Baroque pop songs]]
+[[Category:Liberty Records singles]]
+[[Category:Songs about heroin]]
+[[Category:Songs written by Jet Black]]
+[[Category:Songs written by Hugh Cornwell]]
+[[Category:Songs written by Jean-Jacques Burnel]]
+[[Category:Songs written by Dave Greenfield]]
+[[Category:The Stranglers songs]]

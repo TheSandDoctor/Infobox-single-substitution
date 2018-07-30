@@ -1,0 +1,463 @@
+{{pp-semi|small=yes}}
+{{Use dmy dates|date=June 2014}}
+{{Use British English|date=June 2014}}
+{{subst:Infobox single 
+| Name           = Relax
+| Cover          = Relax_single.jpg
+| Border         = yes
+| Artist         = [[Frankie Goes to Hollywood]]
+| Album          = [[Welcome to the Pleasuredome]]
+| B-side         = "One September Monday", "[[Ferry 'Cross the Mersey]]"
+| Released       = {{start-date|24 October 1983}}
+| Format         = {{Flatlist|
+*[[7" vinyl|7"]]
+*[[12" vinyl|12"]]
+*[[Cassette single|MC]]
+*[[CD single|CD]]}}
+| Recorded       = 1983
+| Genre          = [[Hi-NRG]],<ref>{{cite magazine|title= 100 Best Singles of 1984: Pop's Greatest Year > 30 – Frankie Goes to Hollywood, "Relax" |url= https://www.rollingstone.com/music/lists/100-best-singles-of-1984-pops-greatest-year-20140917/frankie-goes-to-hollywood-relax-20140917 |first= Nick |last= Murray |magazine= [[Rolling Stone]] |date= 17 September 2014 |accessdate= 22 May 2016}}</ref><ref>{{cite book|title= [[Rip It Up and Start Again|Rip It Up and Start Again: Postpunk 1978–1984]] |first= Simon |last= Reynolds |authorlink= Simon Reynolds |quote= 'Relax' tapped into Hi-NRG's remorseless, metronomic precision and orgiastic vibe — the spasming drum roll at the end of the single feels like an amyl nitrite rush. |publisher= [[Faber and Faber|Faber & Faber]] |location= New York |year= 2009 |page= 504 |isbn= 0-571-21570-X}}</ref> [[New wave music|new wave]]<ref>{{cite web|url=http://www.newnownext.com/frankie-goes-to-hollywood-relax-video/07/2017/|title=TBT: When MTV Banned Frankie Goes To Hollywood's Original Video For "Relax" For Being Too Gay|publisher=}}</ref>
+| Length         = 3:53
+| Label          = [[ZTT Records|ZTT]]
+| Writer         = {{Flatlist|
+*[[Peter Gill (FGTH drummer)|Peter Gill]]
+*[[Holly Johnson]]
+*[[Brian Nash]]
+*[[Mark O'Toole (musician)|Mark O'Toole]]}}
+| Producer       = [[Trevor Horn]]
+| This single    = "''''Relax'''" <br/>(1983)
+| Next single    = "[[Two Tribes]]" <br/>(1984)
+| Misc = {{Extra music sample|filename=Frankie Goes to Hollywood - Relax.ogg |Type=single}}
+}}{{Citations missing|date=April 2018}}
+
+"'''Relax'''" is the debut single by [[Frankie Goes to Hollywood]], released in the United Kingdom by [[ZTT Records]] in 1983. The song was later included on the album ''[[Welcome to the Pleasuredome]]'' (1984).
+
+Although fairly inauspicious upon initial release, "Relax" finally reached [[List of Number 1 singles from the 1980s (UK)#1984|number one on the UK singles chart]] on 22 January 1984,<ref>{{Cite web|url=http://www.officialcharts.com/charts/singles-chart/19840122/7501/|title=Official Singles Chart Top 100 {{!}} Official Charts Company|website=www.officialcharts.com|language=en|access-date=2017-01-24}}</ref> ultimately becoming one of the most controversial and most commercially successful records of the decade. The single eventually sold a reported 2 million copies in the UK alone, making it the seventh best-selling single in the [[UK Singles Chart]]'s history.<ref>{{cite web|url=http://www.officialcharts.com/chart-news/the-million-sellers-the-uks-biggest-ever-selling-singles-revealed-1685/ |title=Get Lucky becomes one of the UK’s biggest selling singles of all-time! |publisher=Officialcharts.com |date=2013-06-27 |accessdate=2014-03-29}}</ref> Following the release of the group's second single, "[[Two Tribes]]", "Relax" rallied from a declining UK chart position during June 1984 to climb back up the UK charts and re-attain number-two spot behind "Two Tribes" at number one, representing simultaneous chart success by a single act, unprecedented since the early 1960s.
+
+Upon release in the United States in late 1984, "Relax" repeated its slow UK progress, reaching number 67 upon initial release, but eventually reaching number 10 in March 1985.
+
+The song won Best British Single at the 1985 [[Brit Awards]].
+
+The song featured on the soundtrack to ''[[T2 Trainspotting]]'' and also in the game ''[[Grand Theft Auto: Vice City Stories]]'' in the fictional in-game radio station [[Wave 103]].
+
+==Background and recording==
+{{Listen|filename=Relax Demo tape.ogg
+|title=Relax (Demo) excerpt|description=An excerpt from ''Relax (Demo)''}}
+Singer [[Holly Johnson]] has claimed that the words of the song came to him as he was walking down Princess Avenue in [[Liverpool]]: "... I mean they were just, you know, words that floated into my head one day when I was walking down Princess Avenue (in Liverpool) with no bus fare, trying to get to rehearsals – I mean there was no great sort of calculated, ‘Oh I’ll sing these words and this record’ll be banned’.”<ref>{{cite web|url=http://mfblogg.no/6068/|title=Relax – Frankie Goes To Hollywood|website=MusikBloggNo|accessdate=9 August 2017}}</ref>
+
+ZTT Records signed Frankie Goes to Hollywood after producer-turned-ZTT cofounder [[Trevor Horn]] saw the band play on the television show ''[[The Tube (TV series)|The Tube]]'', on which the group played an early version of "Relax". Horn described the original version of "Relax" as "More a jingle than a song", but he preferred to work with songs that were not professionally finished because he could then "fix them up" in his own style.<ref>Reynolds, p. 377</ref> Once the band was signed, ZTT co-founder [[Paul Morley]] mapped out the marketing campaign fashioned as a "strategic assault on pop". Morley opted to tackle the biggest possible themes in the band's singles ("sex, war, religion"), of which "Relax" would be the first, and emphasized the shock impact of Frankie members Holly Johnson's and [[Paul Rutherford (singer)|Paul Rutherford]]'s open [[homosexuality]] in the packaging and music videos.<ref name="reynolds379">Reynolds, p. 379</ref>
+
+Horn dominated the recording of "Relax" in his effort for perfectionism. The band were overawed and intimidated by Horn's reputation, and thus were too nervous to make suggestions. Johnson said in his autobiography, "Whatever he said we went along with".<ref name="reynolds379" /> When attempts to record with the full band proved unsatisfactory, Horn hired former [[Ian Dury]] backing band [[the Blockheads]] for the sessions, with [[Norman Watt-Roy]] providing the original bass line. Those sessions were later deemed to be not modern sounding enough. Horn then constructed a more electronic-based version of the song with keyboards by session musician [[Andy Richards]] and with rhythm programming assistance from [[J. J. Jeczalik]] of [[Art of Noise]]. Horn developed this version of the recording in his west [[London]] studio while the band remained in their hometown of [[Liverpool]]. Horn had made 3 versions of "Relax" prior to Richards and guitarist [[Stephen Lipson]] joining his [[ZTT Records|ZTT Production]] 'Theam' in late 1983. Horn left the studio late one night asking for Lipson to erase the multitrack (of version 3) due to lack of progress, but came back into the studio some time later to hear Richards playing a variety of modal chords based around the key of E minor with Lipson playing guitar along to the unerased multitrack.<ref>{{cite web|url=http://www.soundonsound.com/sos/apr08/articles/classictracks_0408.htm|title=Classic Tracks: Frankie Goes To Hollywood – 'Relax'|publisher=Sound on Sound|date=April 2008|accessdate=15 March 2015}}</ref><ref>{{cite web|url=http://www.zttaat.com/article.php?title=110|title=Zang Tuum Tumb and all that - Articles - The making of relax|first=|last=zttaat.com|website=www.zttaat.com|accessdate=9 August 2017}}</ref> Ultimately lead vocalist Johnson was the only band member to perform on the record; the only contribution by the other members was a sample crafted from the sound of the rest of the band jumping into a swimming pool. Horn explained years later, "I was just . . . Look, 'Relax' ''had'' to be a hit." Despite the band's absence from the record, Horn said, "I could never have done these records in isolation. There was no actual playing by the band, but the whole ''feeling'' came from the band." Horn completed the recording having spent £70,000 in studio time.<ref>Reynolds, p. 380</ref>
+
+==Release, controversy and ban by the BBC==
+Morley intentionally courted scandal with the promotion of "Relax". ZTT initiated the ad campaign for "Relax" with two quarter-page ads in the British music press. The first ad featured images of Rutherford in a sailor cap and a leather vest, and Johnson with a shaved head and rubber gloves. The images were accompanied by the phrase "ALL THE NICE BOYS LOVE SEA MEN" and declared "Frankie Goes to Hollywood are coming&nbsp;... making [[Duran Duran]] lick the shit off their shoes&nbsp;... Nineteen inches that must be taken always." The second ad promised "theories of bliss, a history of Liverpool from 1963 to 1983, a guide to Amsterdam bars".<ref>Reynolds, p. 381</ref>
+
+When first released in November 1983, the initial progress of "Relax" on the [[UK Top 75]] was sluggish. First charting at number 67, by its seventh week on the chart it had progressed only to number 35, even falling back slightly during that time. But then on Thursday 5 January 1984, Frankie Goes to Hollywood performed "Relax" on the BBC flagship television chart show, ''[[Top of the Pops]]''. The following week it soared to number 6. On 11 January 1984, [[BBC Radio 1|Radio 1]] [[disc jockey]] [[Mike Read]] expressed on air his distaste for both the record's suggestive sleeve (designed by [[Anne Yvonne Gilbert]]) and its lyrics, which centred on the oft-repeated "Relax, don't do it/When you want to suck to it/Relax, don't do it/ When you want to come."<ref>{{cite book 
+|title= The People's Songs: The Story of Modern Britain in 50 Records 
+|author = Stuart Maconie 
+|year = 2013 
+|ISBN = 140903318X 
+|page = 263}}</ref> He announced his refusal to play the record, not knowing that the BBC had just decided that the song was not to be played on the BBC anyway.
+
+In support of their disc jockey, BBC Radio banned the single from its shows a reported two days later (although certain prominent night-time BBC shows&nbsp;— including those of [[David Jensen|Kid Jensen]] and [[John Peel]]&nbsp;— continued to play the record, as they saw fit, throughout 1984).<ref>{{cite news 
+|url=http://news.bbc.co.uk/1/hi/entertainment/959284.stm|title='Banned' Frankie tops chart|date=6 October 2000 | work=BBC News | accessdate=4 January 2010}}</ref> The now-banned "Relax" rose to number 2 in the charts by 17 January, and hit the number-one spot on 24 January. By this time, the BBC Radio ban had extended to ''Top of the Pops'' as well, which displayed a still picture of the group during its climactic Number One announcement, before airing a performance by a non-Number One artist.
+
+This went on for the five weeks that "Relax" was at number one. It then began a slow decline on the charts, falling back as far as number 31 in May 1984 before returning to number two in July whilst Frankie's follow-up single "[[Two Tribes]]" held the UK number-one spot. In the end, "Relax" remained on the Top 75 for 48 consecutive weeks and returned in February 1985 for four more, giving a total of 52.<ref>{{cite web|url=http://chartstats.com/release.php?release%3D10950 |archive-url=https://web.archive.org/web/20110824220320/http://www.chartstats.com/release.php?release=10950 |dead-url=yes |archive-date=24 August 2011 |title=Archived copy |accessdate=8 August 2010 }}</ref>
+
+The ban became an embarrassment for the BBC, especially given that UK commercial radio and television stations were still playing the song. Later in 1984 the ban was lifted and "Relax" featured on both the [[Christmas Day]] edition of ''Top of the Pops'' and Radio 1's rundown of the best-selling singles of the year.
+
+Throughout the "Relax" controversy, the band continued to publicly deny that the song's lyrics were sexual. Nevertheless, by 1984, it was clear that the public were aware of the sexual nature of the lyrics, but the scandal had fuelled sales anyway. In 1985, with the release of the ''[[Welcome to the Pleasuredome]]'' album (which included "Relax"), the band dropped any public pretense about the lyrics: 
+{{Quote|Everything I say is complete lies. Like, when people ask you what 'Relax' was about, when it first came out we used to pretend it was about motivation, and really it was about [[Shag (British Slang)|shagging]].|Mark O'Toole|''Welcome to the Pleasuredome'' album liner notes}}
+
+The track was reissued in September 1993, the first of a string of Frankie Goes to Hollywood singles to be reissued that year. It debuted at a high number six on the UK singles chart and peaked at number five the next week. It spent seven weeks on the Top 75 this time, thus extending its combined total to 59, making it the [[List of songs which have spent the most weeks on the UK Singles Chart|third longest runner of all time]] (seven other singles have since surpassed it; now it is in joint 10th place).<ref>{{cite web|url=http://chartstats.com/release.php?release%3D21011 |archive-url=https://web.archive.org/web/20110824220448/http://www.chartstats.com/release.php?release=21011 |dead-url=yes |archive-date=24 August 2011 |title=Archived copy |accessdate=8 August 2010 }}</ref>
+
+==Original 1983–1984 mixes==
+[[File:Relax Last Seven Inches.jpg|thumb|right|width 200px|Relax "The Last Seven Inches"]]Although the [[single (music)|7-inch]] version of the single remained unchanged throughout its initial release (a mix generally known as "Relax (Move)"), promotional 7-inch records featuring a substantially different mix of "Relax" (entitled either "The Last Seven Inches" or "Warp Mix" because it is a compilation of other versions) were the subject of a limited 1984 release.
+
+{{Listen|filename=Relax (The Last Seven Inches) - ZTAS1DJ.ogg
+|title=Relax (The Last Seven Inches) excerpt|description=An excerpt from ''Relax (The Last Seven Inches)''}}
+
+Three principal [[12 inch|12-inch remixes]] of "Relax" were eventually created by producer [[Trevor Horn]]:
+
+<blockquote>One of the reasons we did all the remixes was that the initial 12-inch version of 'Relax' contained something called 'The Sex Mix', which was 16 minutes long and didn't even contain a song. It was really [[Holly Johnson]] just jamming, as well as a bunch of [[Sampling (music)|samples]] of the group jumping in the swimming pool and me sort of making disgusting noises by dropping stuff into buckets of water! We got so many complaints about it&nbsp;— particularly from gay clubs, who found it offensive&nbsp;— that we cut it in half and reduced it down to eight minutes, by taking out some of the slightly more offensive parts [this became the "New York Mix"]. Then we got another load of complaints, because the single version wasn't on the 12-inch&nbsp;— I didn't see the point in this at the time, but I was eventually put straight about it.<ref name="Sound On Sound, August 1994">{{cite news|url=http://www.soundonsound.com/sos/1994_articles/aug94/trevorhorn.html|publisher=Sound On Sound
+|title=From ABC to ZTT|date=August 1994}}</ref></blockquote>
+
+Horn attested that visits to [[New York City|New York]]'s [[Paradise Garage]] club led to the creation of the final "Relax (U.S. Mix)", which ultimately replaced the original "Sex Mix"/"New York Mix" releases:
+
+<blockquote>It was only when I went to this club and heard the sort of things they were playing that I really understood about 12-inch remixes. Although I myself had already had a couple of big 12-inch hits, I'd never heard them being played on a big sound system, and so I then went back and mixed 'Relax' again and that was the version which sold a couple of million over here [in the UK].<ref name="Sound On Sound, August 1994"/></blockquote>
+
+[[File:Relax Picture disk.jpg|thumb|right|Relax picture 12" disk]]The original 12-inch version of "Relax", labelled "Sex Mix", ran for over 16 minutes, and is broadly as described by Horn above. The subsequent "New York Mix" was an 8-minute-plus edit of the "Sex Mix", and can only be distinguished by having ''12ISZTAS1'' etched on the vinyl. The final 12-inch mix, containing no elements from the foregoing versions, was designated the "U.S. Mix", and ran for approximately 7:20. This was the most commonly available 12-inch version of "Relax" during its worldwide 1984 chart success.
+
+The UK [[cassette single]] featured as the title track a unique amalgam of excerpts from the "Sex Mix", "U.S. Mix", "Move" and an instrumental version of "Move".
+
+Since virtually all of the UK "Relax" 12-inch singles were labelled "Sex Mix", a method of differentiating between versions by reference to the record's [[matrix numbers]] necessarily became ''de rigueur'' for collectors of Frankie Goes to Hollywood releases (and ultimately collectors of ZTT records in general).
+
+"Relax (Come Fighting)" was the version of the song included on the ''Welcome to the Pleasuredome'' album. This is ostensibly a variant of the 7-inch single "Move" mix, but readily distinguishable from it in many ways. For example, the "Move" mix fades in on a foghorn type sound while the album mix fades in on sustained synth chords. Also, the backing vocals of the "Move" mix are panned to the left, whereas they are mixed in the centre on the album version. Additionally, the "Move" mix features a prominent reverberated kick drum sound during the introduction that also appears in other parts of the song, which is completely absent from the album mix. The album mix also has a certain post-production sheen (greater stereo separation of parts, more strategic uses of reverb, etc.) that is absent from the original 1983 7-inch single mix. The later "1993 Classic Mix" reissue is almost identical to the "Come Fighting" album version.
+
+The original airing of Relax on [[The Tube (TV series)|The Tube]], before the band were signed to ZTT, featured another verse that was edited from all the released versions, "In heaven everything is fine, you've got yours and I've got mine", presumably removed as it was taken directly from the David Lynch film ''[[Eraserhead]]''.
+
+==B-sides==
+The 7-inch featured "One September Monday", an interview between ZTT's [[Paul Morley]], Holly Johnson and [[Paul Rutherford (singer)|Paul Rutherford]]. During the interview, Holly revealed that the group's name derived from a page of the ''[[The New Yorker|New Yorker]]'' magazine, headlined "Frankie Goes to Hollywood" and featuring [[Frank Sinatra]] "getting mobbed by [[teenybopper]]s".
+
+On all of the original 12-inch releases, the B-side featured a cover of "[[Ferry Cross the Mersey|Ferry 'Cross the Mersey]]", followed by a brief dialogue involving Rutherford attempting to [[unemployment benefit|sign on]], and an a cappella version of the title track's chorus, [[segue]]ing into an instrumental version of "Relax", known as "From Soft to Hard". "From Soft to Hard" has the same structure as the 7-inch "Move" mix, but is not simply an instrumental of this mix.
+
+The UK cassette single included "Ferry 'Cross the Mersey" and interview sections not included on "One September Monday".
+
+==Videos==
+The first official video for "Relax", directed by [[Bernard Rose (director)|Bernard Rose]] and set in a [[BDSM|S&M]] themed [[Gay bar|gay nightclub]], featuring  the bandmembers accosted by buff [[leather subculture|leathermen]], a glamorous [[drag queen]], and an [[obesity|obese]] admirer dressed up as a [[Roman emperor]], was allegedly banned by [[MTV]] and the [[BBC]], prompting the recording of a second video, directed by [[Godley and Creme]]<ref>{{cite web|url=http://www.mvdbase.com/video.php?id=11021 |title=Frankie Goes to Hollywood - "Relax [version 3: lasers&#93;" |publisher=mvdbase.com |date=1984-10-29 |accessdate=2014-03-29}}</ref> in early 1984, featuring the group performing with the help of laser beams. However, after the second video was made the song was banned completely by the BBC, meaning that neither video was ever broadcast on any BBC music programmes.
+
+A live performance video of the song was directed by [[David Mallet (director)|David Mallet]], making the rounds at MTV.
+
+Another MTV video of the studio version includes footage from the [[Brian De Palma]] film ''[[Body Double]]''. ''Body Double'', a popular 1984 erotic thriller film, contains a [[film within a film]] sequence in which Frankie Goes to Hollywood performs ''Relax'' on the set of a [[porn]] film<ref name=DT>{{cite web|work=[[DVD Talk]]|url=http://www.dvdtalk.com/reviews/23720/body-double-special-edition/|title=Body Double: Special Edition|date=September 9, 2006|author=Gibron, Bill}}</ref>.
+
+==Track listings==
+* All discographical information pertains to original UK releases only unless noted
+* "Relax" written by [[Peter Gill (FGTH drummer)|Peter Gill]]/Johnson/[[Mark O'Toole (musician)|Mark O'Toole]]
+* "One September Monday" credited to Gill/Johnson/Morley/[[Brian Nash]]/O'Toole/Rutherford
+* "Ferry 'Cross the Mersey" written by [[Gerry Marsden]]
+
+===7": ZTT / ZTAS 1 (United Kingdom)===
+# "Relax" (Move) – 3:52
+# "One September Monday" – 4:47
+
+* Also released as a 7" picture disc (P ZTAS 1)
+
+===12": ZTT / 12 ZTAS 1 (United Kingdom)===
+# "Relax" (Sex Mix) (16:24)
+# "Ferry 'Cross the Mersey" – 4:03
+# "Relax" (From soft to hard) – 4:21
+* Also released as a 12" picture disc (12 PZTAS 1).  
+* The Sex Mix on the picture disc is actually the U.S. Mix a.k.a. Long Mix, running time approximately 7:20
+
+===12": ZTT / 12 ZTAS 1 (United Kingdom)===
+# "Relax" (New York Mix) (8:20)
+# "Ferry 'Cross the Mersey" – 4:03
+# "Relax" (From soft to hard) – 4:21
+* "New York mix" is an edit of "Sex Mix"
+
+===12": ZTT / 12 ZTAS 1 (United Kingdom)===
+# "Relax" (U.S. Mix) – 7:20
+# "Ferry 'Cross the Mersey" – 4:03
+# "Relax" (From soft to hard) – 4:21
+* "Relax" (U.S. Mix) is also known as "Relax" (Long version)
+
+===12": Island / 0-96975 (United States)===
+# "Relax" (U.S. Mix) – 7:20
+# "Relax" (Move) – 3:52
+# "Relax" (From soft to hard) – 4:21
+
+* "U.S. Mix" labelled as "Long version"
+* "Move" labelled as "7" Version"
+* "From soft to hard" labelled as "Instrumental"
+* also released on MC in Canada (Island / ISC-69750)
+
+=== 12": ZTT / 062-2000686 (Greece) ===
+# "Relax" (Disco Mix) (6:15)
+# "Ferry 'Cross the Mersey" – 4:03
+# "Relax" (From soft to hard) – 4:21
+* "Disco Mix" (a.k.a. "The Greek Disco Mix") is a combination of "Relax (move)" and the "New York Mix"
+* "Disco Mix" (a.k.a. "The Greek Disco Mix") is labelled as "Relax" (Sex Mix) on the original 12", which is incorrect.
+
+===MC: ZTT / CTIS 102===
+{{Listen|filename=Relax Cassette version.ogg
+|title=Relax (cassette single) excerpt|description=An excerpt from ''Relax (cassette single)''}}
+* "From Soft To Hard – From Dry To Moist"
+# "The Party Trick" (acting dumb) – 0:36
+# "The Special Act" (adapted from the sex mix) – 7:46
+# "The US Mix" (come dancing) – 4:38
+# "The Single" (the act) – 3:55
+# "Later On" (from One September Monday) – 1:36
+# "Ferry Across The Mersey (...and here I'll stay)" – 4:06
+
+===MC: ZTT ===
+* "Relax"
+# "Relax" – 3:57
+# "Relax MCMXCIII"– 3:43
+# "Ollie J Remix" (come dancing) – 6:31
+# "Jam & Spoon trip - O-Matic Fairn Tale Mix" - 7:50
+# "Jam & Sppon Hi N6R6G Mix" – 7:54
+# "New York Mix - The original" – 7:26
+
+==Charts and certifications==
+
+===Original version (1983 to 1985)===
+{{col-begin}}
+{{col-2}}
+
+====Weekly charts====
+{|class="wikitable sortable"
+!Chart (1983-1985)
+!Peak<br>position
+|-
+|align="left"|Australia ([[Kent Music Report]])<ref>{{cite book|last=Kent|first=David|authorlink=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=118}} N.B. The Kent Report chart was licensed by [[Australian Recording Industry Association|ARIA]] between mid 1983 and 19 June 1988.</ref>
+| style="text-align:center;"|5
+|-
+{{singlechart|Austria|4|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Flanders|2|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+|Canadian [[RPM (magazine)|''RPM'' Top Singles]]<ref>{{cite web |url= http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.6755&type=1&interval=24&PHPSESSID=u9874ano8k0c5b6bkp4r8qrbp3 |title= Relax in Canadian Top Singles Chart |publisher= Library and Archives Canada |accessdate= 20 June 2013}}</ref>
+| style="text-align:center;"|11
+|-
+|Denmark ([[Tracklisten]])<ref name="BOOK">{{cite book|title=Frankie Goes to Hollywood|author=Iain Blair|year=1985|isbn=978-0809252756|pages=20 and 21}}</ref>
+| style="text-align:center;"|5
+|-
+|[[European Hot 100 Singles|Eurochart Hot 100 Singles]]<ref name="tsort">{{cite web|url= http://tsort.info/music/ssga2n.htm |title= Song artist 604 - Frankie Goes To Hollywood |author= Steve Hawtin|publisher= Tsort.info |accessdate= 26 June 2013|display-authors=etal}}</ref>
+| style="text-align:center;"|1
+|-
+|Finland ([[The Official Finnish Charts]])<ref name="BOOK"/>
+| style="text-align:center;"|1
+|-
+|France ([[Syndicat National de l'Édition Phonographique|SNEP]])<ref>{{cite web |url= http://www.infodisc.fr/Bilan_F.php |title= Relax in French Chart |publisher= Dominic DURAND / InfoDisc |date= 20 June 2013 |language= French |accessdate= 20 June 2013 |deadurl= yes |archiveurl= https://web.archive.org/web/20130920093356/http://www.infodisc.fr/Bilan_F.php |archivedate= 20 September 2013 |df= dmy-all }} You have to use the index at the top of the page and search "Frankie Goes to Hollywood"</ref>
+| style="text-align:center;"|1
+|-
+{{singlechart|Germany2|1|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+|Greece ([[IFPI Greece]])<ref name="BOOK"/>
+| style="text-align:center;"|1
+|-
+|[[Hong Kong]] Singles Chart<ref name="BOOK"/>
+| style="text-align:center;"|9
+|-
+|Iceland ([[Tónlist]])<ref name="BOOK"/>
+| style="text-align:center;"|2
+|-
+|[[Irish Singles Chart]]<ref name="IRL">{{cite web |url= http://www.irishcharts.ie/search/placement |title= Relax in Irish Chart |publisher= IRMA |accessdate= 20 June 2013}} Two last results when searching "Relax"</ref>
+| style="text-align:center;"|3
+|-
+|[[Israel]] Singles Chart<ref name="BOOK"/>
+| style="text-align:center;"|1
+|-
+|Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref>{{cite web |url= http://www.hitparadeitalia.it/hp_yends/hpe1984.htm |title= The best-selling singles of 1984 in Italy |publisher= HitParadeItalia (it) |accessdate= 20 June 2013}}<br />11. Relax - Frankie Goes to Hollywood [#1]</ref>
+| style="text-align:center;"|1
+|-
+{{singlechart|Dutch40|5|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Dutch100|5|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|New Zealand|10|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Norway|2|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+|[[Polish Music Charts|Polish Singles Chart]]<ref name="tsort"/>
+| style="text-align:center;"|18
+|-
+|[[Portugal]] Singles Chart<ref name="BOOK"/>
+| style="text-align:center;"|18
+|-
+|Spain ([[Productores de Música de España|AFYVE]])<ref>{{cite book |last=Salaverri|first=Fernando|title=Sólo éxitos: año a año, 1959–2002|edition=1st |date=September 2005|publisher=Fundación Autor-SGAE|location=Spain|isbn=84-8048-639-2}}</ref> 
+| style="text-align:center;"|1
+|-
+{{singlechart|Sweden|4|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Swiss|1|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+|[[Thailand]] Singles Chart<ref name="BOOK"/>
+| style="text-align:center;"|1
+|-
+|UK ([[Official Charts Company]])<ref name="UK">{{cite web |url= http://www.officialcharts.com/artist/_/frankie%20goes%20to%20hollywood/ |title= Frankie Goes to Hollywood |publisher= Official Charts Company |accessdate= 20 June 2013}}</ref>
+| style="text-align:center;"|1
+|-
+|U.S. [[Billboard Hot 100|''Billboard'' Hot 100]]<ref name="awards">{{cite web |url= http://www.allmusic.com/artist/frankie-goes-to-hollywood-mn0000139741/awards |title= Frankie Goes to Hollywood awards on Allmusic |publisher= Allmusic |accessdate= 20 June 2013}}</ref><ref>Charted twice. The 3:02 version peaked at #67 on 5/5/1984; the 3:56 version peaked at #10 3/16/1985.</ref>
+| style="text-align:center;"|10
+|-
+|U.S. ''Billboard'' [[Hot Dance Club Songs|Hot Dance Club Play]]<ref name="awards"/>
+| style="text-align:center;"|20
+|-
+|U.S. ''Billboard'' [[Dance/Electronic Singles Sales|Hot Dance Music/Maxi-Singles Sales]]<ref name="awards"/>
+| style="text-align:center;"|26
+|}
+
+===Year-end charts===
+{| class="wikitable sortable"
+|-
+!Chart (1984)
+! style="text-align:center;"|Rank
+|-
+|Australia<ref name="Australian Chart Book 1970–1992">{{cite book|title=[[Kent Music Report|Australian Chart Book 1970–1992]]|format=doc|last=Kent|first=David|authorlink=David Kent (historian)|publisher=Australian Chart Book, St Ives, N.S.W |year=1993|isbn=0-646-11917-6}}</ref>
+| style="text-align:center;"|16
+|-
+|UK<ref>{{cite journal |title=Top 100 Singles |periodical=[[Music Week]] |publisher=Morgan-Grampian plc |location=London, England |page=37 |date=26 January 1985}}</ref>
+| style="text-align:center;"|3
+|-
+|Switzerland<ref>{{cite web|url=http://swisscharts.com/charts/jahreshitparade/1983|title=Swiss Year-End Charts 1983 - swisscharts.com|first=Steffen|last=Hung|website=swisscharts.com}}</ref>
+| style="text-align:center;"|6
+|-
+|}
+{| class="wikitable"
+|-
+!Chart (1985)
+! style="text-align:center;"|Rank
+|-
+|New Zealand<ref>{{cite web|title= End of Year Charts 1984 |publisher= [[Recorded Music NZ]] |accessdate= July 17, 2017 |url= http://nztop40.co.nz/chart/?chart=3873}}</ref>
+|align="center"|16
+|-
+|US ([[Joel Whitburn]]'s ''Pop Annual'')<ref>{{cite book |last=Whitburn |first=Joel |date=1999 |title=Pop Annual |url= |location=Menomonee Falls, Wisconsin |publisher=Record Research Inc. |page= |isbn=0-89820-142-X}}</ref>
+| style="text-align:center;"|102
+|-
+|}
+{{col-2}}
+
+===1993 and 2001 reissues===
+{|class="wikitable sortable"
+!Chart (1993-1994)
+!Peak<br>position
+|-
+|align="left"|Finland ([[Suomen virallinen lista]])<ref name="Book">{{cite book|first= Timo |last= Pennanen |year= 2006 |title= Sisältää hitin - levyt ja esittäjät Suomen musiikkilistoilla vuodesta 1972 |language= fi |edition= 1st |publisher= Tammi |isbn= 978-951-1-21053-5 |location= Helsinki}}</ref>
+|align="center"|1
+|-
+{{singlechart|France|21|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+|Ireland ([[Irish Singles Chart|IRMA]])<ref name="IRL"/>
+| style="text-align:center;"|6
+|-
+|Japan ([[Oricon]])<ref name="tsort"/>
+| style="text-align:center;"|40
+|-
+{{singlechart|Dutch40|8|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|New Zealand|27|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Norway|7|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+{{singlechart|Sweden|15|artist=Frankie Goes To Hollywood|song=Relax}}
+|-
+!Chart (2001)
+!Peak<br>position
+|-
+|U.S. ''Billboard'' [[Hot Dance Club Songs|Hot Dance Club Play]]<ref name="awards"/>
+| style="text-align:center;"|19
+|-
+|U.S. ''Billboard'' [[Dance/Electronic Singles Sales|Hot Dance Music/Maxi-Singles Sales]]<ref name="awards"/>
+| style="text-align:center;"|22
+|}
+
+===Relax '93===
+{|class="wikitable sortable"
+!Chart (1993-1994)
+!Peak<br>position
+|-
+{{Singlechart|Australia|22|artist=Frankie Goes To Hollywood|song=Relax '93}}
+|-
+|Austria ([[Ö3 Austria Top 40]])<ref>{{cite web |url=http://austriancharts.at/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |archive-url=https://web.archive.org/web/20060302090243/http://www.austriancharts.at/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |dead-url=yes |archive-date=2 March 2006 |title=Relax '93 in Austrian Chart |author=Hung Medien |accessdate=20 June 2013 |df=dmy-all }}</ref>
+| style="text-align:center;"|10
+|-
+|Belgium ([[Ultratop 50]])<ref>{{cite web|url=http://www.ultratop.be/nl/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |archive-url=https://archive.is/20130624182211/http://www.ultratop.be/nl/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+'93&cat=s |dead-url=yes |archive-date=24 June 2013 |title=Relax '93 in Belgian Chart |publisher=Ultratop and Hung Medien |accessdate=20 June 2013 }}</ref>
+| style="text-align:center;"|13
+|-
+|Germany ([[Media Control Charts]])<ref>{{cite web |url= http://www.officialcharts.de/song.asp?artist=Frankie+Goes+To+Hollywood&title=Relax+%2793&cat=s&country=de |title= Relax '93 in German Chart |publisher= Media control |accessdate= 20 June 2013}}</ref>
+| style="text-align:center;"|13
+|-
+|Netherlands ([[GfK]] Dutch Chart)<ref>{{cite web|url=http://dutchcharts.nl/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |archive-url=https://web.archive.org/web/20121108191615/http://www.dutchcharts.nl/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |dead-url=yes |archive-date=8 November 2012 |title=Relax '93 in GfK Dutch Chart |publisher=Hung Medien |accessdate=20 June 2013 }}</ref>
+| style="text-align:center;"|12
+|-
+|Switzerland ([[Swiss Hitparade]])<ref>{{cite web |url=http://www.swisscharts.com/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |archive-url=https://web.archive.org/web/20051205025522/http://swisscharts.com/showitem.asp?interpret=Frankie+Goes+To+Hollywood&titel=Relax+%2793&cat=s |dead-url=yes |archive-date=5 December 2005 |title=Relax '93 in Swiss Chart |author=Hung Medien |accessdate=20 June 2013 |df=dmy-all }}</ref>
+| style="text-align:center;"|6
+|-
+|UK ([[Official Charts Company]])<ref name="UK"/>
+| style="text-align:center;"|5
+|}
+
+===Sales and certifications===
+{{Certification Table Top}}
+{{Certification Table Entry|region=Canada|title=Relax|artist=Frankie Goes to Hollywood|award=Gold|certyear=1984|accessdate=17 April 2012|salesamount=50,000}}
+{{Certification Table Entry|region=United Kingdom|title=Relax|artist=Frankie Goes to Hollywood|award=Platinum|relyear=1984|accessdate=29 March 2012|salesamount=2,103,000|salesref=<ref>{{cite web|url=http://www.officialcharts.com/chart-news/daft-punks-get-lucky-becomes-one-of-the-uks-biggest-selling-singles-of-all-time-2315/|title=Daft Punk's Get Lucky becomes one of the UK's biggest selling singles of all-time!|last=Lane|first=Dan|date=June 27, 2013|publisher=[[Official Charts Company]]|accessdate=September 6, 2015}}</ref>}}
+{{Certification Table Entry|region=United States|title=Relax|artist=Frankie Goes to Hollywood|award=Gold|certyear=1989|accessdate=17 April 2012|salesamount=500,000}}
+{{Certification Table Bottom}}
+{{col-end}}
+
+==Re-issues==
+The title track has periodically been reissued as a single in a number of remix forms.
+
+===1993 re-issues===
+
+====CD: ZTT / FGTH1CD====
+# "Relax" – 3:55
+# "Relax" (MCMXCIII) – 3:42
+# "Relax" (Ollie J. Remix) – 6:38
+# "Relax" (Jam & Spoon Trip-O-Matic Fairy Tale Remix) – 7:52
+# "Relax" (Jam & Spoon HI N-R-G Remix) – 7:55
+# "Relax" (U.S. Mix) – 7:22
+
+====2x12": ZTT / SAM 1231====
+# "Relax" (Ollie J. Remix) – 6:38
+# "Relax" (Trip-Ship Edit) – 6:12
+# "Relax" (Ollie J's Seven Inches) – 3:30
+# "Relax" (Jam & Spoon HI N-R-G Remix) – 7:55
+# "Relax" (Jam & Spoon Trip-O-Matic Fairy Tale Remix) – 7:52
+# "Relax" (MCMXCIII) – 3:42
+* UK 12" promo
+
+===2001 re-issue===
+
+====Cd maxi rep 8027====
+# "Relax" 4:11 (original single A side)
+# "One September Monday" 4:50 (original single B side)
+# "Ferry Cross The Mersey"4:06 (original 12inch B side)
+# "Relax MCMXIII" 3:43
+# "Relax" 4:07 [enhanced section](original video)
+
+====CD: Star 69 / STARCD 520 (US)====
+# "Relax" (Peter Rauhofer's Doomsday Radio Mix) – 3:45
+# "Relax" (Peter Rauhofer's Doomsday Club Mix) – 9:47
+# "Relax" (Saeed & Palash Addictive Journey) – 11:16
+# "Relax" (Coldcut Remix) – 4:59
+# "Relax" (Peter Rauhofer's Doomsday Dub) – 6:27
+# "Relax" (Original New York 12" Mix) – 7:31
+# "Relax" (Original Radio Mix) – 3:54
+
+==Covers==
+{{refimprove section|date=March 2018}}
+* [[Judge Dread]] released the first cover version of the song, in 1984.
+* [["Weird Al" Yankovic]] covered the chorus as the final song of the polka medley "[[Hooked on Polkas]]" from his 1985 album ''[[Dare to Be Stupid]]''.
+* [[Powerman 5000]] covered it with [[Danny Boy (rapper)|Danny Boy]] for the ''[[Zoolander]]'' Soundtrack. They made a music video as well.
+* [[Brooklyn Bounce]] covered it for their 1997 album ''[[The Beginning (Brooklyn Bounce album)|The Beginning]]''.
+* [[Bloodhound Gang]] sampled it in their song "[[Mope]]".
+* [[Richard Cheese]] covered it on his 2002 album ''[[Tuxicity]]''.
+* [[The Dandy Warhols]] covered it for their 2004 album ''[[Come On Feel the Dandy Warhols]]''.
+* One-Way Mirror covered it on their 2008 album ''One-Way Mirror''.
+* [[Atrocity (band)|Atrocity]] covered it on their 2008 album ''[[Werk 80 II]]''.
+* [[Blake McGrath]] released a cover version as a single in 2010.
+* [[Kevorkian Death Cycle]] released a cover version on their 1999 album ''[[A+0(M)]]''.
+* [[Duran Duran]] performed a snippet of the song during "[[The Wild Boys (song)|The Wild Boys]]" on their 2011–12 [[All You Need Is Now Tour]].
+* [[U2]] performed a snippet of the song during some live shows on their [[The Unforgettable Fire Tour]] (1984), [[Vertigo Tour]] (2005) and [[U2 360° Tour|U2360° Tour]] (2009/2010/2011).<ref>{{cite web|url=http://www.u2gigs.com/Relax-s385.html |title=U2 Relax - U2 on tour |publisher=U2gigs.com |date= |accessdate=2014-03-29}}</ref>
+* [[Blondie (band)|Blondie]] performed the song throughout 2013 on their [[Blast Off Tour]] & [[No Principals Tour]]. They also recorded it for their 2014 studio album ''[[Ghosts of Download]]''.
+* One Less Reason covered it on their 2011 album ''Faces and Four Letter Word''
+
+==See also==
+*[[List of songs banned by the BBC]]
+
+==Bibliography==
+*{{cite book |last=Reynolds |first=Simon |authorlink=Simon Reynolds |title=Rip It Up and Start Again: Postpunk 1978–1984 |publisher=[[Penguin Books|Penguin]]  |year=2005 |isbn=0-14-303672-6}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{MetroLyrics song|frankie-goes-to-hollywood|relax}}<!-- Licensed lyrics provider -->
+
+{{Frankie Goes to Hollywood}}
+{{Powerman 5000}}
+
+{{DEFAULTSORT:Relax (Song)}}
+[[Category:1983 singles]]
+[[Category:1983 songs]]
+[[Category:1984 singles]]
+[[Category:Brit Award for British Single]]
+[[Category:Controversies in the United Kingdom]]
+[[Category:Frankie Goes to Hollywood songs]]
+[[Category:LGBT-related songs]]
+[[Category:Music videos directed by Godley and Creme]]
+[[Category:Number-one singles in Finland]]
+[[Category:Number-one singles in France]]
+[[Category:Number-one singles in Germany]]
+[[Category:Number-one singles in Greece]]
+[[Category:Number-one singles in Israel]]
+[[Category:Number-one singles in Italy]]
+[[Category:Number-one singles in Spain]]
+[[Category:Number-one singles in Switzerland]]
+[[Category:Obscenity controversies in music]]
+[[Category:Songs written by Holly Johnson]]
+[[Category:Songs written by Mark O'Toole (musician)]]
+[[Category:Songs written by Peter Gill (FGTH drummer)]]
+[[Category:UK Singles Chart number-one singles]]
+[[Category:ZTT Records singles]]

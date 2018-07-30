@@ -1,0 +1,204 @@
+{{refimprove|date=May 2018}}<!--many paragraphs without citations-->
+{{About|the song|the movie named after the song|Rock Around the Clock (film)|the 1955 record album by Haley|Rock Around the Clock (album)}}
+{{Use mdy dates|date=November 2011}}
+{{subst:Infobox single <!-- See Wikipedia:WikiProject_Songs -->
+| Name           = Rock Around the Clock
+| Cover          = Rock Around the Clock.jpg
+| Caption        = "Rock Around the Clock" 45" single
+| Artist         = [[Bill Haley & His Comets]]
+| Album          = [[Rock Around the Clock (album)|Rock Around the Clock]] (original version)
+| B-side         = "Thirteen Women (And Only One Man in Town)"<ref>Gordon, Terry E., [http://rcs-discography.com/rcs/pics/d04/4776.htm "Photos of Rock Around the Clock record single"]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}, ''Rockin' Country Style: A Discography of Country Rock & Roll and Related Records, 1951–1964 ''</ref>
+| Released       = {{start date|1954|5|20}}, NYC<ref>[http://ultimateclassicrock.com/rock-around-the-clock ''The History of Rock Around The Clock'']</ref> and again in May 1955
+| Format         = [[Gramophone record|45 rpm]], [[Single (music)|78 rpm]], [[12"|33 rpm, 45 rpm maxi]] single
+| Recorded       = {{start date|1954|4|12}}, [[Pythian Temple (New York City)|Pythian Temple]] studios, 135 West 70th Street, [[New York City]]<ref name="SIMONS">{{cite book|last=Simons|first=David|title=Studio Stories – How the Great New York Records Were Made | location = San Francisco | publisher=Backbeat Books | year = 2004 | url = https://books.google.com/books?id=uEmmAK1qjbYC&printsec=frontcover}} Cf. pp.168–169.</ref><ref name="nyt-2009-06-18">{{cite news | last = Gray | first = Christopher | authorlink = Christopher Gray |title = An Improbable Cradle of Rock Music  | work=New York Times | date = June 18, 2009 | url = https://www.nytimes.com/2009/06/21/realestate/21scapes.html | accessdate =September 5, 2009}}</ref>
+| Genre          = {{Hlist|[[Rock and roll]]|[[rockabilly]]}}<!-- Please do not add genres without citing a reliable source.-->
+| Length         = 2:08 <small>(see [[Rock Around the Clock#Length variation|length variations]])</small>
+| Label          = [[Decca Records|Decca]]
+| Writer         = [[Max C. Freedman]]<br/>[[James E. Myers]] (as Jimmy DeKnight)
+| Producer       = [[Milt Gabler]]<ref>Hoffmann, Frank, [https://books.google.com/books?id=xV6tghvO0oMC&printsec=frontcover ''Encyclopedia of Recorded Sound''], 2nd ed., New York, NY : Routledge, 2005. {{ISBN|0-415-93835-X}}. Cf. volume 1 (of two), pp.421–422, article on "Milt Gabler".</ref>
+| Audio sample?  = 
+| Last single    = "[[Chattanooga Choo Choo]]"/"Straight Jacket"<br />(1954)
+| This single    = "'''Rock Around the Clock'''"<br />(1954)
+| Next single    = "[[Shake, Rattle and Roll]]"<br />(1954)
+| Misc           = 
+{{Extra music sample
+| type           = single
+| filename       = Bill Haley and His Comets - Rock Around the Clock.ogg
+| title          = "Rock Around the Clock" }}
+}}
+
+"'''Rock Around the Clock'''" is a [[rock and roll]] song in the [[Twelve-bar blues|12-bar blues format]] written by [[Max C. Freedman]] and [[James E. Myers]] (the latter being under the [[pseudonym]] "Jimmy De Knight") in 1952. The best-known and most successful rendition was recorded by [[Bill Haley & His Comets]] in 1954 for American [[Decca Records|Decca]]. It was a number one single on both the United States and United Kingdom charts and also re-entered the [[UK Singles Chart]] in the 1960s and 1970s.
+
+It was not the [[The first rock and roll record|first rock and roll record]], nor was it the first successful record of the genre (Bill Haley had American chart success with "[[Crazy Man, Crazy]]" in 1953, and in 1954, "[[Shake, Rattle and Roll]]" sung by [[Big Joe Turner]] reached No. 1 on the Billboard R&B chart). Haley's recording nevertheless became an anthem for rebellious 1950s youth<ref>{{cite web|url=http://www.rockhall.com/inductees/bill-haley|title=Bill Haley|website=Rockhall.com|accessdate=2016-10-10}}</ref> and is widely considered to be the song that, more than any other, brought [[rock and roll]] into mainstream culture around the world. The song is ranked No. 158 on the ''[[Rolling Stone]]'' magazine's list of [[The 500 Greatest Songs of All Time]].
+
+Although first recorded by Italian-American band [[Sonny Dae and His Knights]] on March 20, 1954,<ref>{{cite web|url=http://rcs-discography.com/rcs/ss/00/ss985.mp3 |title=MP£ file |website=Rcs-discography.com |accessdate=2016-10-10}}</ref> Myers claimed the song had been written specifically for Haley but, for various reasons, Haley was unable to record it himself until [[1954 in music|April 12, 1954]].
+
+The original full title of the song was "'''We're Gonna Rock Around the Clock Tonight!'''". This was later shortened to "'''(We're Gonna) Rock Around the Clock'''", though this form is generally only used on releases of the 1954 Bill Haley Decca Records recording; most other recordings of this song by Haley and others (including Sonny Dae) shorten this title further to "Rock Around the Clock".
+
+In 2018, it was selected for preservation in the [[National Recording Registry]] by the [[Library of Congress]] as being "culturally, historically, or artistically significant."<ref>{{cite web | url=https://www.loc.gov/item/prn-18-028/ | title=National Recording Registry Reaches 500 | work=Library of Congress | date=March 21, 2018 | accessdate=March 21, 2018}}</ref>
+
+==False starts==
+There are sources that indicate that "Rock Around the Clock" was written in 1953, but documents uncovered by historian [[Jim Dawson]] indicate it was in fact written in late 1952. The original arrangement of the song bore little resemblance to the version recorded by Haley, and was in fact closer to a popular instrumental of the day called "[[The Syncopated Clock]]" (written by [[Leroy Anderson]]).
+
+The song was credited to Myers (as "Jimmy DeKnight") and [[Max C. Freedman]] when copyrighted on March 31, 1953, although its exact authorship is disputed, with many speculating that Freedman wrote the song on his own.<ref>[https://books.google.com/books?id=KjAhAQAAIAAJ&pg=PA202&lpg=PA202&dq=rock+around+clock+copyright+entries+catalog+1953&source=bl&ots=oseSQsvgon&sig=GyxsSA_QMBKn4GdGh8t_CGxcB2U&hl=en&sa=X&ved=0ahUKEwiY5byFrf_VAhUBxoMKHY8MDaoQ6AEILTAB#v=onepage&q&f=false Catalog of Copyright Entries: 1953, p. 202. "We're gonna rock around the clock".]</ref> There were several earlier songs of the title "Rock Around the Clock" (by [[Hal Singer]] and [[Wally Mercer]]), but they are unrelated to the Freedman/Myers song. In addition, it is sometimes erroneously stated that "Rock Around the Clock" is copied from a late-1940s [[Big Joe Turner]] recording, "Around the Clock Blues". Aside from title similarity, however, the two songs bear little resemblance. There are many [[blues]] songs with the theme of partying or making love "round the clock", with various actions specified at various hours.
+
+However, the verse melody of "Rock Around the Clock" does bear a very close similarity to that of [[Hank Williams]]' first hit, "[[Move It On Over (song)|Move It On Over]]", from 1947.  Williams' song was very similar to [[Charley Patton]]'s "Going to Move to Alabama", recorded in 1929 – which itself was at least partly derived from [[Jim Jackson (musician)|Jim Jackson]]'s "Kansas City Blues" from 1927.  The song also uses [[Phrase (music)|phrases]] from [[Count Basie]]'s "Red Wagon", first recorded in 1939.<ref>Peter Gammond, The Oxford Companion to Popular Music, 1991, p.495</ref>
+
+According to the Haley biographies ''Bill Haley'' by [[John Swenson]] and ''Rock Around the Clock'' by Dawson, the song was offered to Haley by Jimmy Myers in the wake of his first national success "[[Crazy Man, Crazy]]" in 1953, after being copyrighted with the U.S. Library of Congress on March 31.<ref>Dawson, Jim. ''Rock Around the Clock : The Record that Started the Rock Revolution'' (Backbeat Books, 2005, p. 62), {{ISBN|0-87930-829-X}}</ref> Haley and his Comets began performing the song on stage (Comets bass player [[Marshall Lytle]] and drummer [[Dick Boccelli|Dick Richards]] say the first performances were in [[Wildwood, New Jersey]] at Phil and Eddie's Surf Club), but [[Dave Miller (producer)|Dave Miller]], his producer, refused to allow Haley to record it for his [[Essex Records]] label (Swenson suggests a feud existed between Myers and Miller).
+
+Haley himself claimed to have taken the sheet music into the recording studio at least twice, with Miller ripping up the music each time. Nonetheless, rumors of a 1953 demo recording by Haley persist to this day, although surviving members of the Comets deny this, as did Haley himself (quoted in the Swenson biography) ; a late-1960s [[Bootleg recording|bootleg]] single of the DECCA Records version of "Rock Around the Clock", with "Crazy Man, Crazy" on the B-side and carrying the Essex label, occasionally turns up for sale with the claim that it is the demo version.
+
+Myers next offered the song to and organized the recording by Sonny Dae & His Knights, a novelty all-white musical group led by Italian-American [[Paschal Vennitti]]. The group's subsequent recording, on the [[Arcade Records (U.S.)|Arcade Records]] label (owned by Haley's manager, [[Jack Howard (producer)|Jack Howard]]), was a regional success, although it sounded very different from what Haley would later record.
+[[File:Rock Around The Clock Bill Haley Comets Myers.jpg|thumb|Sheet music cover for the recording by Bill Haley and His Comets on DECCA Records, Myers Music, Philadelphia, 1955.]]
+
+==Decca recording session==
+After leaving Essex Records in the spring of 1954, Bill Haley signed with [[Decca Records]], and the band's first recording session was set for April 12, 1954 at the [[Pythian Temple (New York City)|Pythian Temple]] studios in New York City.<ref name="SIMONS"/><ref name="nyt-2009-06-18"/>  The recording session almost failed to take place because the band was traveling on a ferry that got stuck on a [[Shoal|sandbar]] en route to New York from [[Philadelphia]].  Once at the studio, producer [[Milt Gabler]] (uncle of actor [[Billy Crystal]], who had produced [[Louis Jordan]] as well as [[Billie Holiday]]), insisted the band work on a song entitled "Thirteen Women (and Only One Man in Town)" (previously written and recorded by [[Dickie Thompson]]), which Gabler wanted to promote as the [[A-side]] of the group's first single for Decca.
+
+Near the end of the session, the band finally recorded a take of "Rock Around the Clock," but Haley's vocals were drowned out by the band.  A second take was quickly made with minimal accompaniment while [[Sammy Davis, Jr.]] waited outside the studio for his turn behind the [[microphone]].  Decca engineers later combined the two versions into one version.  (Comets piano player [[Johnny Grande]] tells a slightly different version, claiming that the only reason a second take was recorded was that the drummer made an error.)
+
+Many musicians have claimed that they performed on the recording session for "Rock Around the Clock."  Song co-writer Myers once claimed he had played drums on the piece, although he also claimed to have been advising the sound mixer in the recording booth.<ref>Swenson, John. ''Bill Haley''. (Star Books, 1983).</ref>  According to the official record sheet from the session, however, the musicians on the famous recording are :
+
+* [[Bill Haley]] – vocals, rhythm guitar
+* [[Marshall Lytle]] – [[double bass]]
+* [[Franny Beecher]] - guitar
+* [[Billy Williamson (guitarist)|Billy Williamson]] – [[steel guitar]]
+* [[Johnny Grande]] – piano
+* [[Billy Gussak]] – drums
+* [[Danny Cedrone]] – electric guitar
+* [[Joey Ambrose]] (aka Joey D'Ambrosio) – tenor saxophone
+
+Dick Richards, Haley's drummer at the time, confirmed in a 2016 interview with Dutch journalist Gerbren Deves, that it was not him, but Gussak playing drums on the recording.
+Despite not being members of Bill Haley and His Comets, Gussak and Cedrone were trusted session players that Haley had used before. Cedrone's guitar solo was one that he used before on Bill Haley And The Saddlemen's version of "[[Rock the Joint]]" in 1952, and is considered one of the classic rock and roll guitar solos of all time. (Cedrone died in a fall down a stairway on June 17, 1954 and never lived to see his contribution become famous and legendary.)  The second instrumental break recreates a popular [[rhythm and blues]] "out chorus" with tenor sax and guitar emulating the rhythm section.
+
+The version of "Rock Around the Clock" that was used in the movie ''[[Blackboard Jungle]]'' differs from the hit single version. The difference is in the two solo breaks. The record has the guitar solo taking the first break and the sax solo taking the second break. The movie version is just the opposite with the sax solo coming first.
+
+In a 2005 retrospective on his uncle Milt Gabler's work (''The Milt Gabler Story''), [[Billy Crystal]] identifies Haley's 1954 recording of "Rock Around the Clock" as the single most important song Gabler ever produced.  Gabler had previously been responsible for the highly successful string of [[R&B]] and [[jump blues]] recordings by Louis Jordan in the late 1940s, which were characterised by their strong beat, clearly enunciated lyrics and high production values, all features which Gabler sought to repeat in Haley's recordings. Also significantly, "Rock Around The Clock" was recorded in the very same month that [[Atlantic Records]] issued [[Big Joe Turner]]'s "[[Shake, Rattle and Roll]]". In relation to "Rock Around The Clock", Gabler said: "I was aware that rock was starting. I knew what was happening in the Philadelphia area, and "Crazy Man, Crazy" had been a hit about a year before that.  It already was starting and I wanted to take it from there."<ref>Dawson, Jim, and Steve Propes, ''What Was The First Rock 'n' Roll Record ?'' (Faber and Faber, 1992), {{ISBN|0-571-12939-0}}.</ref>
+
+==Slow road to classic hit status==
+As Gabler intended, "Rock Around the Clock" was first issued in May 1954 as a [[B-side]] to "Thirteen Women (and Only One Man in Town)."<ref>{{cite web|url=http://www.45cat.com/record/929124|title=45cat - Bill Haley And His Comets - Thirteen Women (And Only One Man In Town) / (We're Gonna) Rock Around The Clock - Decca - USA - 9-29124|work=45cat}}</ref> While the song did make the American ''[[Cashbox (magazine)|Cashbox]]'' music charts (contrary to popular opinion that it was a flop), it was considered a commercial disappointment.  It was not until 1955, when "Rock Around the Clock" was used under the opening credits of the film ''[[Blackboard Jungle]]'',<ref name=pc5>{{Gilliland |url=https://digital.library.unt.edu/ark:/67531/metadc19751/m1/ |title=Show 5 - Hail, Hail, Rock 'n' Roll: The rock revolution gets underway. [Part 1] }}</ref> that the song truly took off.
+
+Many versions of the story behind how "Rock Around the Clock" was chosen for ''Blackboard Jungle'' circulated over the years. Recent research, however, reveals that the song was chosen from the collection of young [[Peter Ford (actor)|Peter Ford]], the son of ''Blackboard Jungle'' star [[Glenn Ford]] and dancer [[Eleanor Powell]]. The producers were looking for a song to represent the type of music the youth of 1955 was listening to, and the elder Ford borrowed several records from his son's collection, one of which was Haley's "Rock Around the Clock" and this was the song chosen.<ref>Dawson, Jim. ''Rock Around the Clock : The Record that Started the Rock Revolution'' (Backbeat Books, 2005).</ref> In 2004 the song finished at #50 in [[AFI's 100 Years...100 Songs]] survey of top tunes in American cinema.
+
+On July 9, 1955 "Rock Around the Clock" became the first rock and roll recording to hit the top of ''[[Billboard (magazine)|Billboard]]'''s Pop charts, a feat it repeated on charts around the world.<ref>Dawson (2005).</ref> The song stayed at this place for eight weeks. The record was also no.1 for seven weeks on the ''[[Cashbox (magazine)|Cashbox]]'' pop singles chart in 1955.  The Bill Haley version also hit number three on the R&B charts.<ref>{{cite book |title= Top R&B/Hip-Hop Singles: 1942–2004|last=Whitburn |first=Joel |authorlink=Joel Whitburn |year=2004 |publisher=Record Research |page=242}}</ref> ''Billboard'' ranked it as the [[Billboard Year-End Hot 100 singles of 1955|No. 2 song for 1955]].
+
+In the UK, Haley's "Rock Around the Clock" was released on Brunswick Records (and Germany as well), reaching number 17 on the [[UK Singles Chart]] in January 1955, four months before it first entered the US pop charts.<ref>{{cite web|url=http://www.45cat.com/record/05338|title=45cat - Bill Haley And His Comets - Shake, Rattle And Roll / A.B.C. Boogie - Brunswick - UK - 05338|website=45cat.com|accessdate=2016-10-10}}</ref>  (Coincidentally, it reached the same position as was reached by [[The Beatles]]' first single, "[[Love Me Do]]", in 1962.)  The song re-entered the UK chart to reach number one in November 1955 for three weeks, and after a three-week break returned there for a further two weeks in January 1956.<ref name="500 Number One Hits">{{cite book
+| first= Jo
+| last= Rice
+| year= 1982
+| title= The Guinness Book of 500 Number One Hits
+| edition= 1st
+| publisher= Guinness Superlatives Ltd 
+| location= Enfield, Middlesex
+| page= 21
+| isbn= 0-85112-250-7}}</ref>  It re-entered the charts again in September 1956, reaching number 5.  The song was re-issued in 1968, when it made number 20, and again in 1974, when it reached number 12. The song's original release saw it become the UK's first million selling single and it went on to sell over 1.4 million copies in total.<ref name="offchartco">{{cite book| last = | first = | authorlink = | title = The Million Sellers: The UK's Greatest Hits | publisher = Omnibus Press | series = | volume = | edition = First | date = 2012| location = London| page = 9| url = | isbn = 978-1-78038-718-5 }}</ref>
+
+The band performed the song on the May 31, 1955 episode of the Texaco Star Theater hosted by Milton Berle in an a cappella and lip-synched versions.<ref>"They go on the Milton Berle Show, May 31" Music as Written. Billboard Jun 4, 1955 page 22</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=KCuZvf4rvVQ |title=Bill Haley & His Comets - Rock Around The Clock Milton Berle Show 1956 |publisher=[[YouTube]] |date=1956-06-05 |accessdate=2016-10-10}}</ref> On Sunday, August 7, 1955, the band performed the song on the Ed Sullivan Show or Toast of the Town hosted by Ed Sullivan.
+
+On the heels of the song breaking into the Top 20 in the UK in 1968, Decca began plugging the single in the US, where it briefly re-entered the Billboard charts in June 1968, peaking at #118.
+
+"Rock Around the Clock" became wildly popular with teenagers around the world. The single, released by independent label [[Festival Records (Australia)|Festival Records]] in Australia, was the biggest-selling recording in the country at the time. [[Columbia Pictures]] cashed in on the new craze by hiring Haley and his band to star in two quickie movies, ''[[Rock Around the Clock (film)|Rock Around the Clock]]'' (1956) and ''[[Don't Knock the Rock]]'' (1957).  In 1957, Haley toured Europe, bringing rock 'n' roll to that continent for the first time.
+
+{{Quote| 'It's very hard to tell what made me first decide to play the guitar. ''Rock Around the Clock'' by Bill Haley came out when I was ten, and that probably had something to do with it.' | [[David Gilmour]], from [[Pink Floyd]]|<ref>{{cite web| title=Shades of Pink – The Definitive Pink Floyd Profile| work=The Source Radio Show| author=Kendall, Charlie| url=http://www.pinkfloydfan.net/t1483-gilmour-waters-mason-wright-shades.html| year=1984| accessdate=July 27, 2011| deadurl=yes| archiveurl=https://www.webcitation.org/6AbUYov2v?url=http://www.pinkfloydfan.net/t1483-gilmour-waters-mason-wright-shades.html| archivedate=September 11, 2012| df=mdy-all}}</ref>}}
+
+In 1964, Bill Haley and His Comets recorded a sequel song entitled "Dance Around the Clock". Haley actually recorded this song on five occasions (a Spanish-language version for [[Orfeón]] of [[Mexico City]] and an English version for the US label [[Newtown Records]] (both in 1964), two live versions for [[Buddah Records]] recorded in New York in 1969 (neither of which were released for 25 years), and once more in [[Nashville, Tennessee]] for the [[Sweden|Swedish]] [[Sonet Records]] label in 1970). Despite these efforts, the song was not a commercial success.
+
+Haley would re-record "Rock Around the Clock"  many times over the years (even scoring a substantial hit with a version recorded for [[Sonet Records]] in 1968), but never recaptured the magic. In 1974, the original version of the song returned to the American charts when it was used as the theme for the movie ''[[American Graffiti]]'' and a re-recorded version by Haley was used as the opening theme for the TV series ''[[Happy Days]]'' during its first two seasons. In the UK, the song again reached the top 20 and as of 2013 remains the only non-Christmas single to have done so on five separate occasions.<ref name="offchartco" /> The original version was also featured in the 1978 film ''[[Superman (1978 film)|Superman]]'', heard playing on a car radio just prior to [[Glenn Ford]]'s final scene in the film; Ford, as noted earlier, had starred in ''Blackboard Jungle''.
+
+During the 1970s Haley shortened his performances of "Rock Around the Clock", dropping one verse and the second instrumental break from most performances. However, his last known recorded performance of the song, at a November 1979 [[Royal Variety Performance|command performance]] for [[Queen Elizabeth II]], was a complete version.
+
+Following Haley's death in February 1981, a number of major tributes involving "Rock Around the Clock" occurred. That fall, a TV special marking the 30th anniversary of ''[[American Bandstand]]'' saw an all-star "supergroup" perform the song (accompanied by 1950s-era footage of Haley and the Comets). In 1982, Haley's original recording was given the [[Grammy Hall of Fame Award]]. An excerpt from the recording was included in "Haley's Golden Medley", a hastily compiled single in the "[[Stars on 45]]" mold which made the UK record charts in 1982, reaching number 50. In 1989, Haley's original Decca recording was incorporated into the "dance mix" single "[[Swing The Mood]]", credited to [[Jive Bunny and the Mastermixers]], but legal considerations forced the album version to substitute a patchwork of re-recordings from the 1950s and 1960s (in Haley's case, a 1968 version of "Rock Around the Clock" recorded for Sonet Records). Since "Swing the Mood" was still on the sales charts going into 1990, it meant that Haley's "Rock Around the Clock", in one way or another, appeared on UK or US sales charts in five consecutive decades.
+
+"Rock Around the Clock" is often cited as the biggest-selling vinyl rock and roll single of all time. The exact number of copies sold has never been audited; however, a figure of at least 25 million was cited by the ''[[Guinness World Records|Guinness Book of World Records]]'' in its category "Phonograph records: Biggest Sellers" from the early 1970s until the 1990s, when the advent of compact discs led to Guinness discontinuing the category.  Guinness consistently listed "Rock Around the Clock" as having the highest claim of any pop music recording, coming second in sales only to [[Bing Crosby]]'s 1942 recording of "[[White Christmas (song)|White Christmas]]", which was also listed as having sold 25 million copies with a further estimated 100 million copies sold in other versions. Sales figures as high as 35 to 40 million have been cited in various reference books and by media, as have lower numbers in the 15–22 million range, whilst a "more than 30 million copies" figure was quoted by Star, as early as 1983, on back cover page of Swenson's book.  A frequently used piece of promotion regarding the song is that it is said to be playing somewhere in the world every minute of the day.
+
+==Length variation==
+Although originally released to vinyl at a running time of 2 minutes and 8 seconds, most digital/CD releases of the original 1954 recording, starting with the "From The Original Master Tapes" compilation of Bill's work with Decca Records, mastered by [[Steve Hoffman (audio engineer)|Steve Hoffman]] and released in 1985, clock in at 2:10. This is due to the inclusion of a "count-in" by one of the Comets (saying, "One...two") at the very start of the song. This was never included in the original single or album releases of the song. (All of Haley's subsequent studio rerecordings of the song run longer than 2:10 with the exception of the abbreviated version recorded for ''[[Happy Days]]''). Versions of Haley's song that run longer than 2:10 will lack the electric guitar sound of Danny Cedrone and the double bass lines of Marshall Lytle. Any version recorded after the 1950s will also feature an electric bass player, such versions being included in most general rock compilations.
+
+==Tributes==
+In tribute to the influence of the song and the movie that launched its popularity, the March 29, 2005 50th anniversary of the opening of ''Blackboard Jungle'' was marked by several large celebrations in the United States organized by promoter [[Martin Lewis (humorist)|Martin Lewis]] under the blanket title "Rock Is Fifty".<ref>{{cite web|url=http://www.rockisfifty.com |title=Under Construction |website=Rockisfifty.com |date= |accessdate=2016-10-10}}</ref><ref>Gundersen, Edna (March 18, 2005). "[https://www.usatoday.com/life/2005-03-17-coming-attractions_x.htm Rock 'Clock' strikes 50]". ''USA Today'', p. E1.</ref> Rock Is Fifty also hosted additional celebrations in Los Angeles in July, 2005, as part of a "Rock Around the Clock-a-Thon" to celebrate the 50th anniversary of the date the song reached the No. 1 spot on the American charts, as well as to observe what would have been Haley's 80th birthday. These events included numerous appearances and performances by surviving members of the original Comets, including the band's induction into the [[Rock Walk]] hall of fame, a performance at the [[Viper Room]] club on the [[Sunset Strip]], and a special performance for employees of [[NASA]]'s [[Jet Propulsion Laboratory]] in [[Pasadena, California|Pasadena]] to celebrate the success of the [[Deep Impact (spacecraft)|Deep Impact]] space probe. A special video of "Rock Around the Clock" was created to mark the occasion and was featured on NASA's website during July and August 2005.  The anniversary was also marked by the publication of a book entirely devoted to the history of the song, ''Rock Around the Clock: The Record That Started the Rock Revolution'', by [[Jim Dawson]].<ref>{{cite web|url=http://www.rockabillyhall.com/Extra.html#clockbookreview |title="EXTRA!" Page 1 / Bill Haley and the Comets |website=Rockabillyhall.com |date= |accessdate=2016-10-10}}</ref>
+
+The [[United States House of Representatives]] also recognized the 40th anniversary of the composing of "Rock Around the Clock" with a special statement by Rep. [[Robert A. Borski]] of Pennsylvania, which was read into the [[Congressional Record]] on March 31, 1993.<ref>[[Congressional Record]] Vol. 139, No. 43, March 31, 1993; E841.</ref>
+[[File:Rock Around The Clock UK 45 Brunswick 1955.jpg|thumb|1955 UK release as a Brunswick Records 45 single, 45-05317.]]
+
+A band from [[Belgium]] named [[Telex (band)|Telex]] covered it in 1978. They performed the song on ''[[Top of the Pops]]''.
+
+Haley's version appears in a [[2017 in television|2017]] [[TV commercial]] for [[Subway (restaurant)|Subway]]'s [[Reuben sandwich]] promotion.<ref>[http://www.ispot.tv/wjA9/subway-reuben-rock-around-the-clock-song-by-bill-haley]</ref>
+
+==Albums==
+As Bill Haley's best-known recording, there have been dozens of compilation album releases over the years entitled ''Rock Around the Clock''. The most notable of these compilations was the 1955 Decca Records album ''[[Rock Around the Clock (album)|Rock Around the Clock]]'' (Decca DL 8225) which contained most of the tracks Haley recorded as singles for the label in 1954 and 1955.
+
+Another notable album release entitled ''Rock Around the Clock'' was the 1970 [[Hallmark Records]] UK release ''Rock Around the Clock'' (SHM 668) which was the first British release of a 1968 album entitled ''Bill Haley's Biggest Hits'' which had been released in [[Sweden]] by [[Sonet Records]]. The album consisted of newly recorded renderings of Haley classics from the 1950s, along with some previously unrecorded songs.
+
+==Charts and certifications==
+
+{| class="wikitable" border="1" cellspacing="2" width="330px"
+!align="center"|Year
+!align="center"|Chart
+!align="center"|Position
+|-
+|align="center"; rowspan="6"|1955
+|align="center"|German Singles Chart
+|align="center"|1
+|-
+|align="center"|UK Singles Chart
+|align="center"|1
+|-
+|align="center"|US ''[[Billboard (magazine)|Billboard]]'' ''[[Best Sellers in Stores]]''
+|align="center"|1
+|-
+|align="center"|US ''[[Billboard (magazine)|Billboard]]'' ''[[Billboard Hot 100|Most Played by Jockeys]]''
+|align="center"|1
+|-
+|align="center"|US ''[[Billboard (magazine)|Billboard]]'' [[Hot R&B/Hip-Hop Songs|Top Selling Rhythm and Blues Singles]]
+|align="center"|3
+|-
+|align="center"|US [[Cashbox (magazine)|Cash Box Top 50 Best Sellers]]
+|align="center"|1
+|-
+|align="center"; rowspan="1"|1956
+|align="center"|Dutch Singles Chart
+|align="center"|4<ref>{{cite web|author=Steffen Hung |url=http://dutchcharts.nl/showitem.asp?interpret=Bill+Haley+And+His+Comets&titel=Rock+Around+The+Clock&cat=s |title=Bill Haley And His Comets - Rock Around The Clock |website=Dutchcharts.nl |date= |accessdate=2016-10-10}}</ref>
+|-
+|}
+
+==See also==
+*[[List of Billboard number-one singles of 1955]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Dawson, Jim. ''Rock Around the Clock : The Record that Started the Rock Revolution''. Backbeat Books, 2005.
+* Ford, Peter. "Rock Around the Clock and Me" (''[[Goldmine (magazine)|Goldmine]]'' and ''Now Dig This'' magazines, 2004; [http://www.peterford.com/ratc.html online version])
+* Frazer-Harrison, Alex. "Rock Around the Clock: A Tribute" (Rockabilly Hall of Fame [http://www.rockabillyhall.com/RockClockTribute.html website], 1999–2004).
+* Haley, John W. and John von Hoelle. ''Sound and Glory'' (Dyne-American, 1990).
+* Pearl Jam – Ten Club News [http://pearljam.com/news/?what=News#240 Ten Club website]
+
+==External links==
+* [http://www.rockabillyhall.com/RockClockTribute.html Tribute to the song], with background information and list of [[cover version]]s
+* [http://www.peterford.com/ratc.html Peter Ford tells how "Rock Around the Clock" came to be chosen for ''Blackboard Jungle'']
+* [http://rock-n-roll.40s-50s.info/ratc/en/index.html The Story of Rock Around the Clock (Sound archive)]
+* {{MetroLyrics song|bill-haley|rock-around-the-clock}}<!-- Licensed lyrics provider -->
+
+{{UK best-selling singles (by decade)}}
+{{Bill Haley & His Comets}}
+{{Happy Days}}
+{{DEFAULTSORT:Rock Around The Clock}}
+[[Category:Rockabilly songs]]
+[[Category:1952 songs]]
+[[Category:1954 singles]]
+[[Category:1955 singles]]
+[[Category:1974 singles]]
+[[Category:1979 singles]]
+[[Category:Bill Haley songs]]
+[[Category:Decca Records singles]]
+[[Category:Festival Records singles]]
+[[Category:Grammy Hall of Fame Award recipients]]
+[[Category:Harry Nilsson songs]]
+[[Category:Number-one singles in Germany]]
+[[Category:Number-one singles in the United States]]
+[[Category:Sex Pistols songs]]
+[[Category:Telex (band) songs]]
+[[Category:Television theme songs]]
+[[Category:UK Singles Chart number-one singles]]
+[[Category:United States National Recording Registry recordings]]
+[[Category:Happy Days]]
